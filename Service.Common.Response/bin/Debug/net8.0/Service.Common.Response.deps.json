@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Service.Common.Response/1.0.0": {
+        "runtime": {
+          "Service.Common.Response.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Service.Common.Response/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

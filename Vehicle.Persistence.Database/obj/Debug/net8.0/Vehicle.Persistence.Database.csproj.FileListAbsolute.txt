@@ -1,0 +1,15 @@
+C:\Users\ismaelmc\source\repos\MilesCarRental.API\Vehicle.Persistence.Database\bin\Debug\net8.0\Vehicle.Persistence.Database.deps.json
+C:\Users\ismaelmc\source\repos\MilesCarRental.API\Vehicle.Persistence.Database\bin\Debug\net8.0\Vehicle.Persistence.Database.dll
+C:\Users\ismaelmc\source\repos\MilesCarRental.API\Vehicle.Persistence.Database\bin\Debug\net8.0\Vehicle.Persistence.Database.pdb
+C:\Users\ismaelmc\source\repos\MilesCarRental.API\Vehicle.Persistence.Database\bin\Debug\net8.0\Vehicle.Domain.dll
+C:\Users\ismaelmc\source\repos\MilesCarRental.API\Vehicle.Persistence.Database\bin\Debug\net8.0\Vehicle.Domain.pdb
+C:\Users\ismaelmc\source\repos\MilesCarRental.API\Vehicle.Persistence.Database\obj\Debug\net8.0\Vehicle.Persistence.Database.csproj.AssemblyReference.cache
+C:\Users\ismaelmc\source\repos\MilesCarRental.API\Vehicle.Persistence.Database\obj\Debug\net8.0\Vehicle.Persistence.Database.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ismaelmc\source\repos\MilesCarRental.API\Vehicle.Persistence.Database\obj\Debug\net8.0\Vehicle.Persistence.Database.AssemblyInfoInputs.cache
+C:\Users\ismaelmc\source\repos\MilesCarRental.API\Vehicle.Persistence.Database\obj\Debug\net8.0\Vehicle.Persistence.Database.AssemblyInfo.cs
+C:\Users\ismaelmc\source\repos\MilesCarRental.API\Vehicle.Persistence.Database\obj\Debug\net8.0\Vehicle.Persistence.Database.csproj.CoreCompileInputs.cache
+C:\Users\ismaelmc\source\repos\MilesCarRental.API\Vehicle.Persistence.Database\obj\Debug\net8.0\Vehicle..93137EA8.Up2Date
+C:\Users\ismaelmc\source\repos\MilesCarRental.API\Vehicle.Persistence.Database\obj\Debug\net8.0\Vehicle.Persistence.Database.dll
+C:\Users\ismaelmc\source\repos\MilesCarRental.API\Vehicle.Persistence.Database\obj\Debug\net8.0\refint\Vehicle.Persistence.Database.dll
+C:\Users\ismaelmc\source\repos\MilesCarRental.API\Vehicle.Persistence.Database\obj\Debug\net8.0\Vehicle.Persistence.Database.pdb
+C:\Users\ismaelmc\source\repos\MilesCarRental.API\Vehicle.Persistence.Database\obj\Debug\net8.0\ref\Vehicle.Persistence.Database.dll

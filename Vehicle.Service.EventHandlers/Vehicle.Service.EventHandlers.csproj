@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MediatR" Version="12.2.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Service.Common.Response\Service.Common.Response.csproj" />
+    <ProjectReference Include="..\Vehicle.Domain\Vehicle.Domain.csproj" />
+    <ProjectReference Include="..\Vehicle.Persistence.Database\Vehicle.Persistence.Database.csproj" />
+  </ItemGroup>
+
+</Project>

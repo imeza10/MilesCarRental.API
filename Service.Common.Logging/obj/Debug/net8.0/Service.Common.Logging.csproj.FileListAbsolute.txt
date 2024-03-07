@@ -1,0 +1,12 @@
+C:\Users\ismaelmc\source\repos\MilesCarRental.API\Service.Common.Logging\bin\Debug\net8.0\Service.Common.Logging.deps.json
+C:\Users\ismaelmc\source\repos\MilesCarRental.API\Service.Common.Logging\bin\Debug\net8.0\Service.Common.Logging.dll
+C:\Users\ismaelmc\source\repos\MilesCarRental.API\Service.Common.Logging\bin\Debug\net8.0\Service.Common.Logging.pdb
+C:\Users\ismaelmc\source\repos\MilesCarRental.API\Service.Common.Logging\obj\Debug\net8.0\Service.Common.Logging.csproj.AssemblyReference.cache
+C:\Users\ismaelmc\source\repos\MilesCarRental.API\Service.Common.Logging\obj\Debug\net8.0\Service.Common.Logging.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ismaelmc\source\repos\MilesCarRental.API\Service.Common.Logging\obj\Debug\net8.0\Service.Common.Logging.AssemblyInfoInputs.cache
+C:\Users\ismaelmc\source\repos\MilesCarRental.API\Service.Common.Logging\obj\Debug\net8.0\Service.Common.Logging.AssemblyInfo.cs
+C:\Users\ismaelmc\source\repos\MilesCarRental.API\Service.Common.Logging\obj\Debug\net8.0\Service.Common.Logging.csproj.CoreCompileInputs.cache
+C:\Users\ismaelmc\source\repos\MilesCarRental.API\Service.Common.Logging\obj\Debug\net8.0\Service.Common.Logging.dll
+C:\Users\ismaelmc\source\repos\MilesCarRental.API\Service.Common.Logging\obj\Debug\net8.0\refint\Service.Common.Logging.dll
+C:\Users\ismaelmc\source\repos\MilesCarRental.API\Service.Common.Logging\obj\Debug\net8.0\Service.Common.Logging.pdb
+C:\Users\ismaelmc\source\repos\MilesCarRental.API\Service.Common.Logging\obj\Debug\net8.0\ref\Service.Common.Logging.dll

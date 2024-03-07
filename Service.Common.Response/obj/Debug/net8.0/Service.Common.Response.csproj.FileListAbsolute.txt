@@ -1,0 +1,11 @@
+C:\Users\ismaelmc\source\repos\MilesCarRental.API\Service.Common.Response\bin\Debug\net8.0\Service.Common.Response.deps.json
+C:\Users\ismaelmc\source\repos\MilesCarRental.API\Service.Common.Response\bin\Debug\net8.0\Service.Common.Response.dll
+C:\Users\ismaelmc\source\repos\MilesCarRental.API\Service.Common.Response\bin\Debug\net8.0\Service.Common.Response.pdb
+C:\Users\ismaelmc\source\repos\MilesCarRental.API\Service.Common.Response\obj\Debug\net8.0\Service.Common.Response.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ismaelmc\source\repos\MilesCarRental.API\Service.Common.Response\obj\Debug\net8.0\Service.Common.Response.AssemblyInfoInputs.cache
+C:\Users\ismaelmc\source\repos\MilesCarRental.API\Service.Common.Response\obj\Debug\net8.0\Service.Common.Response.AssemblyInfo.cs
+C:\Users\ismaelmc\source\repos\MilesCarRental.API\Service.Common.Response\obj\Debug\net8.0\Service.Common.Response.csproj.CoreCompileInputs.cache
+C:\Users\ismaelmc\source\repos\MilesCarRental.API\Service.Common.Response\obj\Debug\net8.0\Service.Common.Response.dll
+C:\Users\ismaelmc\source\repos\MilesCarRental.API\Service.Common.Response\obj\Debug\net8.0\refint\Service.Common.Response.dll
+C:\Users\ismaelmc\source\repos\MilesCarRental.API\Service.Common.Response\obj\Debug\net8.0\Service.Common.Response.pdb
+C:\Users\ismaelmc\source\repos\MilesCarRental.API\Service.Common.Response\obj\Debug\net8.0\ref\Service.Common.Response.dll

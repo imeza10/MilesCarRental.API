@@ -1,0 +1,11 @@
+C:\Users\ismaelmc\source\repos\MilesCarRental.API\Vehicle.Domain\bin\Debug\net8.0\Vehicle.Domain.deps.json
+C:\Users\ismaelmc\source\repos\MilesCarRental.API\Vehicle.Domain\bin\Debug\net8.0\Vehicle.Domain.dll
+C:\Users\ismaelmc\source\repos\MilesCarRental.API\Vehicle.Domain\bin\Debug\net8.0\Vehicle.Domain.pdb
+C:\Users\ismaelmc\source\repos\MilesCarRental.API\Vehicle.Domain\obj\Debug\net8.0\Vehicle.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ismaelmc\source\repos\MilesCarRental.API\Vehicle.Domain\obj\Debug\net8.0\Vehicle.Domain.AssemblyInfoInputs.cache
+C:\Users\ismaelmc\source\repos\MilesCarRental.API\Vehicle.Domain\obj\Debug\net8.0\Vehicle.Domain.AssemblyInfo.cs
+C:\Users\ismaelmc\source\repos\MilesCarRental.API\Vehicle.Domain\obj\Debug\net8.0\Vehicle.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ismaelmc\source\repos\MilesCarRental.API\Vehicle.Domain\obj\Debug\net8.0\Vehicle.Domain.dll
+C:\Users\ismaelmc\source\repos\MilesCarRental.API\Vehicle.Domain\obj\Debug\net8.0\refint\Vehicle.Domain.dll
+C:\Users\ismaelmc\source\repos\MilesCarRental.API\Vehicle.Domain\obj\Debug\net8.0\Vehicle.Domain.pdb
+C:\Users\ismaelmc\source\repos\MilesCarRental.API\Vehicle.Domain\obj\Debug\net8.0\ref\Vehicle.Domain.dll
